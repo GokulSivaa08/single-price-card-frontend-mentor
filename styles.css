@@ -39,14 +39,14 @@ body {
     position: fixed;
     border-left: 50px;
     top: 53.5%;
-    left: 49.5%;
+    left: 50.5%;
     color: white;
     background-color: rgb(94, 212, 214);
     float: right;
     border: 1px solid rgb(94, 212, 214);
     margin-left: -1cm;
     padding: 25px 25px 25px 25px;
-    width: 5.85cm;
+    width: 6.9cm;
     height: 4.3cm;
 }
 
@@ -60,6 +60,7 @@ body {
     padding: 25px 25px 25px 25px;
     height: 22.6%;
     border: 1px solid darkturquoise;
+    border-right: 6cm;
 }
 
 .why {
